@@ -33,4 +33,4 @@ Clone or download the repository.
 1. **Ensure all dependencies are installed.**
 2. **Run the tool using**:
    ```bash
-   python3 meta_mod.py
+   python3 metamod.py
